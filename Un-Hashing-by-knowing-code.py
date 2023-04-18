@@ -1,4 +1,5 @@
-#gui-built :
+#app is made by loai khalid by tkinter/python !-- Loay Copyright 2022 - 2023
+#WAIT FOR GUI BUILT
 x=Input('Whatis UR CODE : ')
 def Lo13I():
     try :
